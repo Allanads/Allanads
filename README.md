@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([www.linkedin.com/in/allan-marques-59785b127](https://www.instagram.com/invites/contact/?i=14c2r86hysdfs&utm_content=q8yr066))
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Allan_tads)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kaleb.lucas.5815/about)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanmarquesads@gmail.com)
 
 ![Allanads GitHub stats](https://github-readme-stats.vercel.app/api?username=Allanads&show_icons=true&theme=radical)
 
