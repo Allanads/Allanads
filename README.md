@@ -39,7 +39,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Allanads}/count.svg" /></p> 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Allanads&icon=0&color=0" alt="Visitors"/>
+</p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
