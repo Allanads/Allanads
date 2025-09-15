@@ -38,6 +38,7 @@
 </div>
 
 <br>
+<br>
 <div align="center">  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Allanads&color=00bfbf&style=for-the-badge" alt="Profile views"/>
