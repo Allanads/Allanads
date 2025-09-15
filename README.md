@@ -37,8 +37,7 @@
     <img align="center" alt="Macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<div align="center">  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Allanads&color=00bfbf&style=for-the-badge" alt="Profile views"/>
 </p>
